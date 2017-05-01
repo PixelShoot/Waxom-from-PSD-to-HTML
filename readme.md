@@ -8,4 +8,5 @@ I've used
 <li>Bootstrap 3 (grid)</li>
 <li><a href="https://github.com/agragregra/optimizedhtml-start-template">OptimizedHTML - Start HTML Template</a></li>
 </ul>
+<a href="http://gsportfolio.kl.com.ua/waxom/">Realisation of this template</a>
 
