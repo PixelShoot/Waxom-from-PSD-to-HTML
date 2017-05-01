@@ -1,5 +1,5 @@
 <h1>From PSD to template (Waxom)</h1>
-<p>This is a simple template made by Gleb Strelchenko</p>
+<p>This is a simple template made by <a href="http://gsportfolio.kl.com.ua/">Gleb Strelchenko</a></p>
 I've used
 <ul>
 <li>PSD template made by Waxom</li>
