@@ -6,5 +6,6 @@ I've used
 <li>Photoshop CC 2017</li>
 <li>HTML, CSS, JS</li>
 <li>Bootstrap 3 (grid)</li>
+<li><a href="https://github.com/agragregra/optimizedhtml-start-template">OptimizedHTML - Start HTML Template</a></li>
 </ul>
 
